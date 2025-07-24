@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @subo8
-- 👀 I’m interested in Full-stack development
+- 👋 Hi, I’m Marty
+- 👀 I’m interested in full-stack development, AI engineering, and cloud programming (GCP, AWS)
 - 🌱 I’m currently studying Master's degree in Computer Science
 - 💞️ I’m collaborate on any project you want. Drop me email or DM.
 - 📫 Reach me through Linkedin
